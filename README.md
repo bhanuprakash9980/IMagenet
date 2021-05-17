@@ -1,4 +1,7 @@
-# Tiny Imagenet Visual Recognition Challenge
-Tiny Imagenet has 200 Classes, each class has 500 traininig images, 50 Validation Images and 50 test images. Label Classes and Bounding Boxes are provided. More details can be found at https://tiny-imagenet.herokuapp.com/",
+## Tiny Imagenet dataset
 
-This challenge is part of Stanford Class CS 231N
+## model for Multi Image Steganography
+
+This dataset is part of challenge given by Stanford Class CS 231N
+
+Tensorflow model trained with 400 epochs for multi-image steganography
